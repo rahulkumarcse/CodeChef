@@ -1,3 +1,3 @@
 # CodeChef
 
-DSA Self Paced Series Questions in java 
+DSA Learning Series Solutions in java 
